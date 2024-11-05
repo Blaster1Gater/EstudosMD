@@ -1,4 +1,5 @@
 # Zumal :: Especialmente Porque
+<!--SR:!2024-11-09,4,270-->
 Conjunção que enfatiza uma razão ou motivo adicional para algo.
 
 ## Sinônimos

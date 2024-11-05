@@ -3,8 +3,8 @@
 Verbo que significa interromper uma ação ou movimento; cessar.
 
 ## Sinônimo
-- Anhalten - interromper  
-- Stillstehen - ficar parado  
+- [[Anhalten]] - interromper  
+- [[Stillstehen]] - ficar parado  
 
 ## Antônimo
 - [[Fortsetzen]] - continuar  

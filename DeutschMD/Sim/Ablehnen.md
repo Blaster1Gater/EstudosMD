@@ -3,12 +3,12 @@
 Verbo que significa rejeitar ou não aceitar algo; não consentir.
 
 ## Sinônimo
-- Abweisen - rejeitar  
-- Zurückweisen - refutar  
+- [[Abweisen]] - rejeitar  
+- [[Zurückweisen]] - refutar  
 
 ## Antônimo
-- Akzeptieren - aceitar  
-- Annehmen - tomar  
+- [[Akzeptieren]] - aceitar  
+- [[Annehmen]] - tomar  
 
 ## Explicação
 - **Ablehnen**: Refere-se à ação de não aceitar uma oferta, proposta ou convite.

@@ -3,12 +3,12 @@
 Verbo que expressa o ato de pensar cuidadosamente sobre algo.
 
 ## Sinônimo
-- Überlegen - considerar  
-- Grübeln - ponderar  
+- [[Überlegen]] - considerar  
+- [[Grübeln]] - ponderar  
 
 ## Antônimo
-- Ignorieren - ignorar  
-- Übersehen - não perceber  
+- [[Ignorieren]] - ignorar  
+- [[Übersehen]] - não perceber  
 
 ## Explicação
 - **Refletir**: Indica o ato de pensar de forma profunda ou cuidadosa sobre uma questão ou situação.

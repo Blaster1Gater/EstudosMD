@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d68af93651a4088a",
+        "id": "23b2b7a98c820f94",
         "type": "tabs",
         "children": [
           {
-            "id": "429acc639f65609f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "8ca48c1ea592520f",
+            "id": "8f62cb390879cac7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,12 +43,22 @@
             }
           },
           {
-            "id": "9d43e18364ac9e1d",
+            "id": "29a82a328e5ab5de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "4fb64c6d3ec15819",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,16 +67,6 @@
               },
               "icon": "lucide-search",
               "title": "Procurar"
-            }
-          },
-          {
-            "id": "29a82a328e5ab5de",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
             }
           }
         ]
@@ -100,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Schreiben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,43 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "9cb9f39028ce8f68",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
-            }
-          },
-          {
-            "id": "e939b19927bf11b8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "903b5f8788885fe5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Links inversos para Schreiben"
             }
           },
           {
@@ -197,9 +151,22 @@
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
+          },
+          {
+            "id": "328c1897fcb61861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,55 +174,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
       "zk-prefixer:Criar nova nota única": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "markdown-importer:Abrir importador Markdown": false,
-      "random-note:Abrir nota aleatória": false,
-      "publish:Publicar mudanças": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "8ca48c1ea592520f",
+  "active": "8f62cb390879cac7",
   "lastOpenFiles": [
-    "Sim/Ablehnen.md",
+    "Sim/Tout.md",
+    "Chaque chose.md",
+    "L'ensemble.md",
+    "Rien.md",
+    "Sim/Pas.md",
+    "Aucun.md",
+    "Sim/Non.md",
+    "Sim/Oui.md",
+    "Négatif.md",
+    "D'accord.md",
+    "Affirmatif.md",
+    "Não/À Venir.md",
+    "Sim/À L'avenir.md",
+    "Não/Dans Le Futur.md",
+    "Sim/Hier.md",
+    "Não/Veille.md",
+    "Não/Jour Précédent.md",
+    "Sim/Demain.md",
+    "Não/Jour Suivant.md",
+    "Não/Lendemain.md",
+    "Sim/De Nos Jours.md",
+    "Não/Dans Le Passé.md",
+    "Não/De Nos Temps.md",
+    "Sim/Actuellement.md",
+    "Não/Autrefois.md",
+    "Não/À L'heure Actuelle.md",
+    "Sem título.canvas",
+    "Data",
+    "Não",
+    "Sim",
     "Repo",
-    "Sim/Obgleich.md",
-    "Sim/Obschon.md",
-    "Sim/Zumal.md",
-    "Sim/Obwohl.md",
-    "Sim/Denn.md",
-    "Sim/Da.md",
-    "Sim/Weil.md",
-    "Não/Versperrt.md",
-    "Sim/Versperrt werden.md",
-    "Sim/Zusammengefasst.md",
-    "Sim/Können.md",
-    "Sim/Aufgrund.md",
-    "Sim/Ausdrücken.md",
-    "Não/Unattraktiv.md",
-    "Sim/Der Zweite.md",
-    "Sim/Abgewiesen.md",
-    "Sim/19.md",
-    "Sim/0.md",
-    "Sim/Weder noch.md",
-    "Sim/Eingebunden sein.md",
-    "Não/Gründlich.md",
-    "Não/Befürworten.md",
-    "202411040818.md",
     "Recording 20241104081723.m4a",
-    "202411040817.md",
-    "Sim/Voluminös.md",
     "Não",
     "Sem título 1.canvas",
-    "Sem título.canvas",
     "Sim",
     "Datas"
   ]

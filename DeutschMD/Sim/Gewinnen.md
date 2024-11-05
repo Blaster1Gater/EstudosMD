@@ -3,12 +3,12 @@
 Obter algo como resultado de um esforço, jogo ou competição; ter sucesso.
 
 ## Sinônimo
-- Erhalten - receber  
-- Sieger sein - ser o vencedor  
+- [[Erhalten]] - receber  
+- [[Sieger sein]] - ser o vencedor  
 
 ## Antônimo
-- Verlieren - perder  
-- Niederlage - derrota  
+- [[Verlieren]] - perder  
+- [[Niederlage]] - derrota  
 
 ## Explicação
 - **Ganhar** (no sentido de obter algo positivo): Usado para descrever o ato de vencer em uma competição ou alcançar um objetivo.

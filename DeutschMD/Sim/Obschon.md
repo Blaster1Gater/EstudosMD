@@ -1,4 +1,5 @@
 # Obschon :: Ainda Que
+<!--SR:!2024-11-06,1,230-->
 Conjunção que indica uma concessão, usada para expressar algo que ocorre apesar de uma condição contrária.
 
 ## Sinônimos

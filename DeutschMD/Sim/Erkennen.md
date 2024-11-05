@@ -3,12 +3,12 @@
 Identificar ou perceber algo, especialmente através da visão ou da compreensão.
 
 ## Sinônimo
-- Wahrnehmen - perceber  
-- Identifizieren - identificar  
+- [[Wahrnehmen]] - perceber  
+- [[Identifizieren]] - identificar  
 
 ## Antônimo
-- Ignorieren - ignorar  
-- Übersehen - não perceber  
+- [[Ignorieren]] - ignorar  
+- [[Übersehen]] - não perceber  
 
 ## Explicação
 - **Reconhecer** (no sentido de perceber algo ou alguém): Esse é o uso mais comum, como quando alguém reconhece um rosto familiar ou identifica uma situação.

@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Verbo tag:#Infinitiv  ",
+      "query": "tag:#Verbo",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -78,13 +78,6 @@
       }
     },
     {
-      "query": "tag:#W-Fragen  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "tag:#Preposição  ",
       "color": {
         "a": 1,
@@ -96,13 +89,6 @@
       "color": {
         "a": 1,
         "rgb": 2199841
-      }
-    },
-    {
-      "query": "tag:#Präsens  ",
-      "color": {
-        "a": 1,
-        "rgb": 2653023
       }
     },
     {
@@ -120,35 +106,14 @@
       }
     },
     {
-      "query": "tag:#Gedicht  ",
+      "query": "tag:#Français  ",
       "color": {
         "a": 1,
-        "rgb": 658073
-      }
-    },
-    {
-      "query": "tag:#Anni  ",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:Não  ",
-      "color": {
-        "a": 1,
-        "rgb": 28691
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
+        "rgb": 4220279
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -158,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.07617911717182338,
-  "close": true
+  "scale": 0.12904897878571076,
+  "close": false
 }

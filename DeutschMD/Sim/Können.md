@@ -3,12 +3,12 @@
 Verbo que significa ter a capacidade ou permissão para fazer algo; ser capaz.
 
 ## Sinônimo
-- Vermögen - ser capaz  
-- Dürfen - ter permissão  
+- [[Vermögen]] - ser capaz  
+- [[Dürfen]] - ter permissão  
 
 ## Antônimo
-- Unfähig sein - ser incapaz  
-- Verweigern - recusar  
+- [[Unfähig sein]] - ser incapaz  
+- [[Verweigern]] - recusar  
 
 ## Explicação
 - **Können**: Refere-se à habilidade ou capacidade de realizar uma ação.

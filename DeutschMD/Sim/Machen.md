@@ -4,11 +4,11 @@ Verbo que significa realizar ou executar uma ação.
 
 ## Sinônimo
 - [[Tun]] - fazer  
-- Erstellen - criar  
+- [[Erstellen]] - criar  
 
 ## Antônimo
-- Unterlassen - omitir  
-- Zerstören - destruir  
+- [[Unterlassen]] - omitir  
+- [[Zerstören]] - destruir  
 
 ## Explicação
 - **Fazer**: Indica a ação de executar ou realizar algo.

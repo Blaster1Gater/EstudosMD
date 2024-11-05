@@ -7,8 +7,8 @@ Verbo que significa realizar ou executar uma ação.
 - [[Erledigen]] - realizar  
 
 ## Antônimo
-- Unterlassen - omitir  
-- Verhindern - impedir  
+- [[Unterlassen]] - omitir  
+- [[Verhindern]] - impedir  
 
 ## Explicação
 - **Fazer**: Indica a ação de executar ou realizar algo.

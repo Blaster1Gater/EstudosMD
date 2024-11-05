@@ -1,5 +1,5 @@
 # Allerdings :: Contudo
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-06,1,210-->
 Conjunção que indica uma ressalva ou uma confirmação com uma ligeira oposição à afirmação anterior.
 
 ## Sinônimo

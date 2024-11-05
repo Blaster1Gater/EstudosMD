@@ -1,5 +1,5 @@
 # Jedoch :: No entanto
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,2,230-->
 Conjunção que indica um contraste ou uma reserva em relação a uma afirmação anterior.
 
 ## Sinônimo

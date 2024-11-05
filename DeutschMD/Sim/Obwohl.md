@@ -1,4 +1,5 @@
 # Obwohl :: Embora
+<!--SR:!2024-11-06,1,230-->
 Conjunção que indica uma concessão, usada para introduzir uma ideia oposta ou contrastante.
 
 ## Sinônimos

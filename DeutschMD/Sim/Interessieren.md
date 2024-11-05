@@ -3,12 +3,12 @@
 Verbo que se refere ao ato de despertar curiosidade ou atenção sobre algo.
 
 ## Sinônimo
-- Fesseln - cativar  
-- Anziehen - atrair  
+- [[Fesseln]] - cativar  
+- [[Anziehen]] - atrair  
 
 ## Antônimo
-- Langweilen - entediar  
-- Desinteressieren - desinteressar  
+- [[Langweilen]] - entediar  
+- [[Desinteressieren]] - desinteressar  
 
 ## Explicação
 - **Interessar**: Usado para descrever a ação de chamar a atenção ou a curiosidade de alguém.

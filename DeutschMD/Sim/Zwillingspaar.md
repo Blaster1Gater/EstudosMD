@@ -1,18 +1,19 @@
 # Zwillingspaar :: Par De Gêmeos
-Substantivo que se refere a um conjunto de duas pessoas que nasceram ao mesmo tempo e são geneticamente idênticas ou fraternas.
+Substantivo que indica dois indivíduos nascidos do mesmo parto, comumente conhecidos como gêmeos.
 
-## Sinônimo
+## Sinônimos
+- [[Doppelgänger]] - duplo  
 - [[Zwillingsgeschwister]] - irmãos gêmeos  
 
-## Antônimo
+## Antônimos
 - [[Einzelkind]] - filho único  
-- [[Geschwister]] - irmãos (não gêmeos)  
+- [[Einsling]] - indivíduo único  
 
 ## Explicação
-- **Zwillingspaar**: Refere-se a duas crianças que nasceram de uma única gestação, podendo ser gêmeos idênticos ou fraternais.
-  - Exemplo: *Das Zwillingspaar feiert seinen Geburtstag gemeinsam.* (O par de gêmeos celebra seu aniversário juntos.)
-- **Gêmeos**: Termo utilizado para descrever indivíduos que nasceram ao mesmo tempo.
-  - Exemplo: *Gibt es in deiner Familie Zwillingspaar?* (Há gêmeos na sua família?)
-  
+- **Zwillingspaar**: Refere-se a dois indivíduos que são geneticamente semelhantes e nasceram do mesmo parto, normalmente idênticos ou fraternos.
+  - Exemplo: *Das Zwillingspaar sieht sich sehr ähnlich.* (O par de gêmeos se parece muito.)
+- **Gêmeos**: Dois indivíduos que compartilham a mesma origem gestacional, podendo ser idênticos ou fraternos.
+  - Exemplo: *Ein Zwillingspaar kann manchmal ähnliche Interessen und Hobbys haben.* (Um par de gêmeos pode, às vezes, ter interesses e hobbies semelhantes.)
+
 #Substantivo  
-#Deutsch
+#Deutsch  

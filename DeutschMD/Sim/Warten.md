@@ -3,12 +3,12 @@
 Verbo que significa "permanecer em um lugar até que algo aconteça" ou "aguardar por alguém ou algo".
 
 ## Sinônimo
-- Abwarten - aguardar  
-- Geduldig sein - ser paciente  
+- [[Abwarten]] - aguardar  
+- [[Geduldig sein]] - ser paciente  
 
 ## Antônimo
-- Eilen - apressar-se  
-- Fortgehen - ir embora  
+- [[Eilen]] - apressar-se  
+- [[Fortgehen]] - ir embora  
 
 ## Explicação
 - **Esperar**: Refere-se ao ato de permanecer em um lugar aguardando um evento ou pessoa.

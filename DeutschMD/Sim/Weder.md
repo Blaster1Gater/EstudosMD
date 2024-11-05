@@ -1,5 +1,5 @@
 # Weder :: Nem
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-06,1,210-->
 Conjunção que é usada para introduzir uma negação em relação a duas ou mais opções, indicando que nenhuma delas se aplica.
 
 ## Sinônimo

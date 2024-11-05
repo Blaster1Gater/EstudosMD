@@ -1,5 +1,5 @@
 # Entweder :: Ou
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-06,1,210-->
 Conjunção que indica uma escolha entre duas ou mais opções, onde apenas uma pode ser escolhida.
 
 ## Sinônimo

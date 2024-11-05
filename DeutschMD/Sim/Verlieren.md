@@ -3,12 +3,12 @@
 Verbo que significa deixar de ter algo ou não conseguir encontrá-lo.
 
 ## Sinônimo
-- Einbüßen - perder  
-- Verlieren gehen - se perder  
+- [[Einbüßen]] - perder  
+- [[Verlieren gehen]] - se perder  
 
 ## Antônimo
-- Finden - encontrar  
-- Bekommen - receber  
+- [[Finden]] - encontrar  
+- [[Bekommen]] - receber  
 
 ## Explicação
 - **Perder**: Indica a ação de não ter mais algo que antes se possuía.

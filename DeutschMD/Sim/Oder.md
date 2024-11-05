@@ -1,5 +1,5 @@
 # Oder :: Ou
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-08,3,250-->
 Conjunção que indica uma escolha entre duas ou mais opções ou alternativas.
 
 ## Sinônimo

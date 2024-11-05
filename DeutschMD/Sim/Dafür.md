@@ -1,5 +1,5 @@
 # Dafür :: Para Isso
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-06,1,210-->
 Conjunção que indica uma finalidade ou intenção em relação a uma ação ou situação.
 
 ## Sinônimo

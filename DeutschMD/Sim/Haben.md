@@ -3,12 +3,12 @@
 Verbo que indica posse, presença ou a realização de uma ação.
 
 ## Sinônimo
-- Besitzen - possuir  
-- Halten - manter  
+- [[Besitzen]] - possuir  
+- [[Halten]] - manter  
 
 ## Antônimo
-- Verlieren - perder  
-- Entbehren - privar  
+- [[Verlieren]] - perder  
+- [[Entbehren]] - privar  
 
 ## Explicação
 - **Ter** (no sentido de posse): Usado para indicar que se possui algo.

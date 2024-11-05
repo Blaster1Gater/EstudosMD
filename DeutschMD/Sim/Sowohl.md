@@ -1,5 +1,5 @@
 # Sowohl :: Tanto
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,2,230-->
 Conjunção que é usada para indicar que duas ou mais coisas são verdadeiras ou aplicáveis ao mesmo tempo.
 
 ## Sinônimo

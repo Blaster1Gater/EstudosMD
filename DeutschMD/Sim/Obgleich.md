@@ -1,4 +1,5 @@
 # Obgleich :: Apesar De Que
+<!--SR:!2024-11-08,3,250-->
 Conjunção que indica uma concessão, usada para introduzir uma ideia ou condição contrastante.
 
 ## Sinônimos

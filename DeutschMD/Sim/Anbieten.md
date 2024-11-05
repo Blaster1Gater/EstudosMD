@@ -3,12 +3,12 @@
 Verbo que significa colocar algo à disposição de alguém; apresentar algo para consideração.
 
 ## Sinônimo
-- Dar - fornecer  
-- Vorschlagen - sugerir  
+- [[Dar]] - fornecer  
+- [[Vorschlagen]] - sugerir  
 
 ## Antônimo
 - [[Ablehnen]] - recusar  
-- Entziehen - retirar  
+- [[Entziehen]] - retirar  
 
 ## Explicação
 - **Anbieten**: Refere-se à ação de oferecer algo a alguém.

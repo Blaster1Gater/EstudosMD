@@ -3,12 +3,12 @@
 Verbo que significa não lembrar de algo; deixar de ter em mente.
 
 ## Sinônimo
-- Vergessenheit - desatenção  
-- Ausblenden - excluir da memória  
+- [[Vergessenheit]] - desatenção  
+- [[Ausblenden]] - excluir da memória  
 
 ## Antônimo
 - [[Erinnern]] - lembrar  
-- Behalten - manter na memória  
+- [[Behalten]] - manter na memória  
 
 ## Explicação
 - **Vergessen**: Refere-se à ação de não conseguir recordar algo que antes era conhecido.

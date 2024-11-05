@@ -1,5 +1,5 @@
 # Aber :: Mas
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-08,3,250-->
 Conjunção que indica uma oposição ou contraste em relação ao que foi dito anteriormente.
 
 ## Sinônimo

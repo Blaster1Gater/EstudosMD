@@ -3,12 +3,12 @@
 Verbo que significa trazer à mente uma memória ou fato; recordar.
 
 ## Sinônimo
-- Erinnern an - rememorar  
-- Sich erinnern - recordar-se  
+- [[Erinnern an]] - rememorar  
+- [[Sich erinnern]] - recordar-se  
 
 ## Antônimo
 - [[Vergessen]] - esquecer  
-- Ignorieren - desconsiderar  
+- [[Ignorieren]] - desconsiderar  
 
 ## Explicação
 - **Erinnern**: Refere-se à ação de trazer de volta uma memória ou fato à consciência.

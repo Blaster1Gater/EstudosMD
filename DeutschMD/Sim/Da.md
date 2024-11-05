@@ -1,4 +1,5 @@
 # Da :: Visto Que
+<!--SR:!2024-11-08,3,250-->
 Conjunção que indica uma razão ou causa, usada para justificar uma situação ou declaração.
 
 ## Sinônimos

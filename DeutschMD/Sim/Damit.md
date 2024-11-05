@@ -1,5 +1,5 @@
 # Damit :: Com Isso
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,2,230-->
 Conjunção que indica que uma ação ou intenção é feita com o objetivo de alcançar um resultado específico.
 
 ## Sinônimo

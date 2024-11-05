@@ -3,12 +3,12 @@
 Verbo que significa concluir ou levar a cabo uma tarefa ou obrigação.
 
 ## Sinônimo
-- Abwickeln - processar  
-- Ausführen - executar  
+- [[Abwickeln]] - processar  
+- [[Ausführen]] - executar  
 
 ## Antônimo
-- Vernachlässigen - negligenciar  
-- Aufschieben - adiar  
+- [[Vernachlässigen]] - negligenciar  
+- [[Aufschieben]] - adiar  
 
 ## Explicação
 - **Resolver**: Indica a ação de completar uma tarefa ou resolver um problema.

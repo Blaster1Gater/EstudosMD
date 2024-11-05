@@ -3,12 +3,12 @@
 Verbo que expressa uma opinião, crença ou intenção sobre algo.
 
 ## Sinônimo
-- Glauben - acreditar  
-- Denken - pensar  
+- [[Glauben]] - acreditar  
+- [[Denken]] - pensar  
 
 ## Antônimo
-- Zweifeln - duvidar  
-- Ignorieren - ignorar  
+- [[Zweifeln]] - duvidar  
+- [[Ignorieren]] - ignorar  
 
 ## Explicação
 - **Achar/Pensar**: Usado para expressar uma opinião ou crença sobre algo.

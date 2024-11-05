@@ -3,11 +3,11 @@
 Verbo que significa dar um nome a algo ou alguém; designar.
 
 ## Sinônimo
-- Benennen - designar  
-- Titeln - titular  
+- [[Benennen]] - designar  
+- [[Titeln]] - titular  
 
 ## Antônimo
-- Verschweigen - omitir  
+- [[Verschweigen]] - omitir  
 - [[Ignorieren]] - ignorar  
 
 ## Explicação
