@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "1e6cf288c9f7f303",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68af93651a4088a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "429acc639f65609f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "8ca48c1ea592520f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c53f84f0d6f2f9a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1714063d4080f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6718a4589582082",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9d43e18364ac9e1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#card",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "29a82a328e5ab5de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ce83d740457247a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae9f2485d0d48450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c9fa2198d9bbce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9cb9f39028ce8f68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "e939b19927bf11b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "903b5f8788885fe5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "c46edbd9f2a2e54e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          },
+          {
+            "id": "c1f0c156dd604746",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          },
+          {
+            "id": "c9f6da2e36ed938b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "random-note:Abrir nota aleatória": false,
+      "publish:Publicar mudanças": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b6718a4589582082",
+  "lastOpenFiles": [
+    "Repo",
+    "Sim/Obgleich.md",
+    "Sim/Obschon.md",
+    "Sim/Zumal.md",
+    "Sim/Obwohl.md",
+    "Sim/Denn.md",
+    "Sim/Da.md",
+    "Sim/Weil.md",
+    "Não/Versperrt.md",
+    "Sim/Versperrt werden.md",
+    "Sim/Zusammengefasst.md",
+    "Sim/Können.md",
+    "Sim/Aufgrund.md",
+    "Sim/Ausdrücken.md",
+    "Não/Unattraktiv.md",
+    "Sim/Der Zweite.md",
+    "Sim/Abgewiesen.md",
+    "Sim/19.md",
+    "Sim/0.md",
+    "Sim/Weder noch.md",
+    "Sim/Eingebunden sein.md",
+    "Não/Gründlich.md",
+    "Não/Befürworten.md",
+    "202411040818.md",
+    "Recording 20241104081723.m4a",
+    "202411040817.md",
+    "Sim/Voluminös.md",
+    "Não",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Sim",
+    "Datas"
+  ]
+}
