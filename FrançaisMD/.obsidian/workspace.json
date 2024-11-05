@@ -1,37 +1,48 @@
 {
   "main": {
-    "id": "58f3606281ccc3a5",
+    "id": "1e6cf288c9f7f303",
     "type": "split",
     "children": [
       {
-        "id": "bddf1f537d5850da",
+        "id": "d68af93651a4088a",
         "type": "tabs",
         "children": [
           {
-            "id": "6948c414831b3ad5",
+            "id": "429acc639f65609f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "8ca48c1ea592520f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4fd94e98a2f87cc6",
+    "id": "c53f84f0d6f2f9a6",
     "type": "split",
     "children": [
       {
-        "id": "bf5e67d4768d44a9",
+        "id": "a1714063d4080f33",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2676da1c7ae1aa",
+            "id": "b6718a4589582082",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +54,12 @@
             }
           },
           {
-            "id": "41ab94b77e5d2d02",
+            "id": "9d43e18364ac9e1d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +71,7 @@
             }
           },
           {
-            "id": "61ed47ca25235570",
+            "id": "29a82a328e5ab5de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,18 +84,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "8d0e8639c0f40285",
+    "id": "9ce83d740457247a",
     "type": "split",
     "children": [
       {
-        "id": "87796304aeded66c",
+        "id": "ae9f2485d0d48450",
         "type": "tabs",
         "children": [
           {
-            "id": "19708ac6986524fa",
+            "id": "93c9fa2198d9bbce",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +113,7 @@
             }
           },
           {
-            "id": "7c33c90dacdf2766",
+            "id": "9cb9f39028ce8f68",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +126,7 @@
             }
           },
           {
-            "id": "3072f423cf8a68ea",
+            "id": "e939b19927bf11b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +139,7 @@
             }
           },
           {
-            "id": "bc397a955fe539a6",
+            "id": "903b5f8788885fe5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,13 +147,63 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "c46edbd9f2a2e54e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          },
+          {
+            "id": "c1f0c156dd604746",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c9f6da2e36ed938b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "facb10cd46663fe8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1091ca13a2d222a4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 346
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,9 +212,51 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "random-note:Abrir nota aleatória": false,
+      "publish:Publicar mudanças": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6948c414831b3ad5",
-  "lastOpenFiles": []
+  "active": "8ca48c1ea592520f",
+  "lastOpenFiles": [
+    "Sim/Ablehnen.md",
+    "Repo",
+    "Sim/Obgleich.md",
+    "Sim/Obschon.md",
+    "Sim/Zumal.md",
+    "Sim/Obwohl.md",
+    "Sim/Denn.md",
+    "Sim/Da.md",
+    "Sim/Weil.md",
+    "Não/Versperrt.md",
+    "Sim/Versperrt werden.md",
+    "Sim/Zusammengefasst.md",
+    "Sim/Können.md",
+    "Sim/Aufgrund.md",
+    "Sim/Ausdrücken.md",
+    "Não/Unattraktiv.md",
+    "Sim/Der Zweite.md",
+    "Sim/Abgewiesen.md",
+    "Sim/19.md",
+    "Sim/0.md",
+    "Sim/Weder noch.md",
+    "Sim/Eingebunden sein.md",
+    "Não/Gründlich.md",
+    "Não/Befürworten.md",
+    "202411040818.md",
+    "Recording 20241104081723.m4a",
+    "202411040817.md",
+    "Sim/Voluminös.md",
+    "Não",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Sim",
+    "Datas"
+  ]
 }

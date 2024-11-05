@@ -1,5 +1,5 @@
 # Höre :: Ouço
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,2,230-->
 Forma conjugada do verbo "[[Hören]]" (ouvir) no presente do indicativo, primeira pessoa do singular.
 
 ## Sinônimo
