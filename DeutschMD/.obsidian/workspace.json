@@ -184,12 +184,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1091ca13a2d222a4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -213,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c46edbd9f2a2e54e",
+  "active": "1091ca13a2d222a4",
   "lastOpenFiles": [
     "Repo",
     "Sim/Obgleich.md",
