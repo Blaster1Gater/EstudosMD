@@ -148,8 +148,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Fila de Notas para Revisar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -163,6 +163,16 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "781b6f4f8963c2ea",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           }
         ],
@@ -181,7 +191,7 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "c378ce8b10924089",
+  "active": "c46edbd9f2a2e54e",
   "lastOpenFiles": [
     "Datas/2024-11-05.md",
     "Datas/2024-11-03.md",

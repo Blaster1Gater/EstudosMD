@@ -148,8 +148,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Fila de Notas para Revisar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -164,9 +164,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "955ac7e2689fe083",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -181,7 +191,7 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "8f62cb390879cac7",
+  "active": "955ac7e2689fe083",
   "lastOpenFiles": [
     "Sim/Tout.md",
     "Chaque chose.md",
