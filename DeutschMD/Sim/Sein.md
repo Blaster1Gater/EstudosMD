@@ -1,5 +1,5 @@
 # Sein :: Ser
-<!--SR:!2024-11-06,4,270-->
+<!--SR:!2024-11-20,14,290-->
 Verbo irregular que significa "existir" ou "ter uma determinada qualidade ou estado".
 
 ## Sinônimo

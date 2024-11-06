@@ -1,5 +1,5 @@
 # Nachdenken :: Refletir
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo que expressa o ato de pensar cuidadosamente sobre algo.
 
 ## Sinônimo

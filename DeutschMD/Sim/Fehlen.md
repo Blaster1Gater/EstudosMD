@@ -1,5 +1,5 @@
 # Fehlen :: Falta
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo que significa estar ausente ou não estar presente em um lugar ou situação.
 
 ## Sinônimo

@@ -1,5 +1,5 @@
 # Zugelassen Werden :: Ser Permitido
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo na forma passiva que indica que alguém ou algo foi autorizado ou aceito.
 
 ## Sinônimos

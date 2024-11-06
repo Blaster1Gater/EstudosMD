@@ -1,5 +1,5 @@
 # Fortsetzen :: Continuar
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo que significa prosseguir com uma ação ou atividade após uma interrupção.
 
 ## Sinônimo

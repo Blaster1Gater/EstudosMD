@@ -1,5 +1,5 @@
 # Haben :: Ter
-<!--SR:!2024-11-06,4,270-->
+<!--SR:!2024-11-21,15,290-->
 Verbo que indica posse, presença ou a realização de uma ação.
 
 ## Sinônimo

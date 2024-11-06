@@ -1,5 +1,5 @@
 # Erkennen :: Reconhecer
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-09,3,250-->
 Identificar ou perceber algo, especialmente através da visão ou da compreensão.
 
 ## Sinônimo

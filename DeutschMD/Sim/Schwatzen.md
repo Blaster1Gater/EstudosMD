@@ -1,5 +1,5 @@
 # Schwatzen :: Tagarelar
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo que significa falar de forma informal e frequentemente sobre assuntos triviais ou sem importância.
 
 ## Sinônimo

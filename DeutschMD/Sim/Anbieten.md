@@ -1,5 +1,5 @@
 # Anbieten :: Oferecer
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo que significa colocar algo à disposição de alguém; apresentar algo para consideração.
 
 ## Sinônimo

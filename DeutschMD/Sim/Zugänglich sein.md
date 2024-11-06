@@ -1,5 +1,5 @@
 # Zugänglich Sein :: Ser Acessível
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo na forma infinitiva que indica a qualidade de estar disponível ou de fácil acesso para uso ou visita.
 
 ## Sinônimos

@@ -1,5 +1,5 @@
 # Lieben :: Amar
-<!--SR:!2024-11-06,4,270-->
+<!--SR:!2024-11-21,15,290-->
 Verbo que expressa o ato de ter amor ou afeição por alguém ou algo.
 
 ## Sinônimo

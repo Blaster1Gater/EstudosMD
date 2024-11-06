@@ -1,5 +1,5 @@
 # Eingehören :: Pertencer
-<!--SR:!2024-11-05,1,210-->
+<!--SR:!2024-11-07,1,190-->
 Verbo que indica a condição de ser parte de um grupo ou conjunto, frequentemente utilizado para expressar inclusão e aceitação.
 
 ## Sinônimo

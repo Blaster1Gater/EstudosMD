@@ -1,5 +1,5 @@
 # Zugang Haben :: Ter Acesso
-<!--SR:!2024-11-05,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Verbo na forma infinitiva que indica o direito ou a possibilidade de entrar ou usar algo.
 
 ## Sinônimos

@@ -1,5 +1,5 @@
 # Tun :: Fazer
-<!--SR:!2024-11-06,4,270-->
+<!--SR:!2024-11-22,16,290-->
 Verbo que significa realizar ou executar uma ação.
 
 ## Sinônimo
