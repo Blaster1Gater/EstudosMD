@@ -1,4 +1,5 @@
 # Zusammengefasst :: Resumido
+<!--SR:!2024-11-07,1,230-->
 Particípio passado que indica que algo foi condensado ou simplificado.
 
 ## Sinônimo

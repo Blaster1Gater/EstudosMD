@@ -1,4 +1,5 @@
 # Zurückgewiesen :: Rejeitado
+<!--SR:!2024-11-07,1,230-->
 Particípio passado que indica que algo ou alguém foi recusado ou não aceito.
 
 ## Sinônimos

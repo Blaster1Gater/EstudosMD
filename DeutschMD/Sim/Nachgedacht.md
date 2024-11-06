@@ -1,4 +1,5 @@
 # Nachgedacht :: Refletido
+<!--SR:!2024-11-07,1,230-->
 Particípio passado do verbo [[Nachdenken]], que expressa o ato de pensar cuidadosamente sobre algo.
 
 ## Sinônimo

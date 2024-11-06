@@ -1,4 +1,5 @@
 # Verbunden :: Conectado
+<!--SR:!2024-11-07,1,230-->
 Particípio passado que indica que algo está ligado ou associado a outra coisa.
 
 ## Sinônimos

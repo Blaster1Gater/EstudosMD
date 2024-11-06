@@ -1,4 +1,5 @@
 # Fasziniert :: Fascinado
+<!--SR:!2024-11-07,1,230-->
 Particípio passado do verbo [[Faszinieren]], que expressa a ação de atrair fortemente o interesse ou a atenção de alguém.
 
 ## Sinônimo

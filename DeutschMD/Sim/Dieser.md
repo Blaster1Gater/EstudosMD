@@ -1,4 +1,5 @@
 # Dieser :: Este
+<!--SR:!2024-11-07,1,230-->
 Pronome demonstrativo que indica algo próximo no espaço ou no tempo.
 
 ## Sinônimo

@@ -1,4 +1,5 @@
 # Dasselbe :: O Mesmo
+<!--SR:!2024-11-07,1,230-->
 Pronome demonstrativo que indica identidade ou equivalência entre duas ou mais coisas.
 
 ## Sinônimo

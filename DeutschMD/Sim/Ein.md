@@ -1,4 +1,5 @@
 # Ein :: Um
+<!--SR:!2024-11-07,1,230-->
 Artigo indefinido que se refere a uma unidade de algo, geralmente usado para substantivos no gênero masculino ou neutro.
 
 ## Sinônimo

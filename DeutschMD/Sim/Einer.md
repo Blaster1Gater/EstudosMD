@@ -1,4 +1,5 @@
 # Einer :: Um
+<!--SR:!2024-11-07,1,230-->
 Pronome indefinido que se refere a uma unidade de um grupo ou categoria. Forma do artigo indefinido [[Ein]] no gênero masculino ou neutro.
 
 ## Sinônimo

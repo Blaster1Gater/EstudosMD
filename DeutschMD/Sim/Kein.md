@@ -1,4 +1,5 @@
 # Kein :: Nenhum
+<!--SR:!2024-11-07,1,230-->
 Pronome que indica a negação de existência ou quantidade, usado para afirmar que não há nada de um determinado tipo.
 
 ## Sinônimo

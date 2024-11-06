@@ -1,4 +1,5 @@
 # Beide :: Ambos
+<!--SR:!2024-11-07,1,230-->
 Pronome que se refere a duas pessoas ou coisas, indicando que ambas estão incluídas ou são relevantes.
 
 ## Sinônimo

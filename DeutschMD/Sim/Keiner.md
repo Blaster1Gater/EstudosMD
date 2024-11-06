@@ -1,5 +1,5 @@
 # Keiner :: Nenhum
-<!--SR:!2024-11-03,1,230-->
+<!--SR:!2024-11-07,1,210-->
 Pronome que indica a ausência total de pessoas ou coisas em um determinado contexto.
 
 ## Sinônimo

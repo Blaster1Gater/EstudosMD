@@ -1,4 +1,5 @@
 # Zugelassen :: Permitido
+<!--SR:!2024-11-07,1,230-->
 Particípio passado que indica que algo ou alguém foi autorizado ou aceito.
 
 ## Sinônimos

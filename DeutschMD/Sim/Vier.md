@@ -1,4 +1,5 @@
 # Vier :: Quatro
+<!--SR:!2024-11-07,1,230-->
 Número cardinal que representa a quantidade 4.
 
 ## Sinônimo

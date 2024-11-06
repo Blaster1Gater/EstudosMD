@@ -1,4 +1,5 @@
 # Alle :: Todos
+<!--SR:!2024-11-07,1,230-->
 Pronome que se refere a um grupo inteiro de pessoas ou coisas, indicando que cada um dos membros está incluído.
 
 ## Sinônimo

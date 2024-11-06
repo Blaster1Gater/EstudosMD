@@ -1,4 +1,5 @@
 # Einige :: Alguns
+<!--SR:!2024-11-07,1,230-->
 Pronome que indica uma quantidade indefinida, mas não total, frequentemente usado para referir-se a uma parte de um grupo maior.
 
 ## Sinônimo

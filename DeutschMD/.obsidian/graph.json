@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Verbo tag:#Infinitiv  ",
@@ -139,6 +139,13 @@
         "a": 1,
         "rgb": 28691
       }
+    },
+    {
+      "query": "tag:#Música  ",
+      "color": {
+        "a": 1,
+        "rgb": 12845255
+      }
     }
   ],
   "collapse-display": true,
@@ -151,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19033063450696128,
-  "close": true
+  "scale": 0.20640820031694662,
+  "close": false
 }

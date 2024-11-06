@@ -1,4 +1,5 @@
 # Verloren :: Perdido
+<!--SR:!2024-11-07,1,230-->
 Particípio passado do verbo [[Verlieren]], que significa deixar de ter algo ou não conseguir encontrá-lo.
 
 ## Sinônimo
