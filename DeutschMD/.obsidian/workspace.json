@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23b2b7a98c820f94",
+        "id": "6fb65827eaf0ed1a",
         "type": "tabs",
         "children": [
           {
-            "id": "bbabb4c4e3bae924",
+            "id": "28d32b31eb69cab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datas/2024-11-06.md",
+                "file": "Sim/Ausgegrenzt werden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-06"
+              "title": "Ausgegrenzt werden"
             }
           }
         ]
@@ -122,8 +122,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -194,10 +194,20 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "bbabb4c4e3bae924",
+  "active": "28d32b31eb69cab5",
   "lastOpenFiles": [
-    "Ich liebe es, das sehr zu tun.md",
+    "Sim/Ausgegrenzt werden.md",
+    "Sim/Versperrt.md",
+    "Datas/2024-11-07.md",
+    "Sim/Zumal.md",
+    "Sim/Langweilig.md",
+    "Não/Langatmig.md",
+    "Datas/2024-11-04.md",
+    "Sim/Por que, às vezes, o verbo fica no final em alemão.md",
+    "Sim/Por que, às vezes, o verbo fica no final em alemão_.md",
+    "Sim/Üben.md",
     "Datas/2024-11-06.md",
+    "Ich liebe es, das sehr zu tun.md",
     "Musica/Als ich  ein kind war/Wie Pferderenn'n.md",
     "Musica/Als ich  ein kind war/Und wenn ich Fernseh'n schau'n wollte, musste ich fragen.md",
     "Musica/Als ich  ein kind war/Heute sind die Nachrichten.md",
@@ -212,9 +222,6 @@
     "Musica/Als ich  ein kind war/Als ich ein Kind war, gab's kein Internet.md",
     "Musica/Als ich  ein kind war/Als ich ein Kind war, gab es kein Insta.md",
     "Musica/Als ich  ein kind war/Alles war so langsam oder eher nicht so schnell.md",
-    "Musica/Als ich  ein kind war/Als Ich Ein Kind War.md",
-    "Não/Ich.md",
-    "Musica/Als ich  ein kind war/Als ich  ein kind war.md",
     "Musica/Als ich  ein kind war",
     "Musica",
     "Repo",

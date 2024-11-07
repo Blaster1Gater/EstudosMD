@@ -1,5 +1,5 @@
 # Öffnen :: Abrir
-<!--SR:!2024-11-07,1,210-->
+<!--SR:!2024-11-09,2,210-->
 Verbo que significa permitir o acesso a algo; desobstruir ou iniciar.
 
 ## Sinônimo
