@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb65827eaf0ed1a",
+        "id": "aca772d016fbaa48",
         "type": "tabs",
         "children": [
           {
-            "id": "28d32b31eb69cab5",
+            "id": "aa10899c36222c9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sim/Ausgegrenzt werden.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ausgegrenzt werden"
+              "title": "Nova aba"
             }
           }
         ]
@@ -194,8 +190,14 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "28d32b31eb69cab5",
+  "active": "aa10899c36222c9a",
   "lastOpenFiles": [
+    "Gedicht Für Anni 2.md",
+    "Sim/Gedicht Für Anni.md",
+    "Não/Siehst.md",
+    "Sim/Allerdings.md",
+    "Sim/Dass.md",
+    "Sim/Obwohl.md",
     "Sim/Ausgegrenzt werden.md",
     "Sim/Versperrt.md",
     "Datas/2024-11-07.md",
@@ -216,12 +218,6 @@
     "Musica/Als ich  ein kind war/Es gab keinen Bildschirm neben dem Bett.md",
     "Musica/Als ich  ein kind war/Eine berühmte Frau, jawohl.md",
     "Musica/Als ich  ein kind war/Die Post war gelb und keiner kannte DHL.md",
-    "Musica/Als ich  ein kind war/Das Telefon hatte ein Kabel.md",
-    "Musica/Als ich  ein kind war/Dafür jeden Tag ab drei RTL2.md",
-    "Musica/Als ich  ein kind war/Als ich ein Kind war, war Linda de Mol.md",
-    "Musica/Als ich  ein kind war/Als ich ein Kind war, gab's kein Internet.md",
-    "Musica/Als ich  ein kind war/Als ich ein Kind war, gab es kein Insta.md",
-    "Musica/Als ich  ein kind war/Alles war so langsam oder eher nicht so schnell.md",
     "Musica/Als ich  ein kind war",
     "Musica",
     "Repo",
