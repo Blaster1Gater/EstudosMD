@@ -11,10 +11,14 @@
             "id": "aa10899c36222c9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sim/Gedicht Für Anni 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Gedicht Für Anni 2"
             }
           }
         ]
@@ -190,9 +194,10 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "aa10899c36222c9a",
+  "active": "c46edbd9f2a2e54e",
   "lastOpenFiles": [
-    "Gedicht Für Anni 2.md",
+    "Datas/2024-11-08.md",
+    "Sim/Gedicht Für Anni 2.md",
     "Sim/Gedicht Für Anni.md",
     "Não/Siehst.md",
     "Sim/Allerdings.md",
@@ -217,7 +222,6 @@
     "Musica/Als ich  ein kind war/Es war nicht alles gut damals, ICQ war schon ganz nice.md",
     "Musica/Als ich  ein kind war/Es gab keinen Bildschirm neben dem Bett.md",
     "Musica/Als ich  ein kind war/Eine berühmte Frau, jawohl.md",
-    "Musica/Als ich  ein kind war/Die Post war gelb und keiner kannte DHL.md",
     "Musica/Als ich  ein kind war",
     "Musica",
     "Repo",

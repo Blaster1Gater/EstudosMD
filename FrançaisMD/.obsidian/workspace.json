@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,10 +191,13 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "5a53a1c8af552b8a",
+  "active": "8f62cb390879cac7",
   "lastOpenFiles": [
-    "Sim/Tout.md",
+    "2024-11-08.md",
+    "Data/2024-11-05.md",
+    "Affirmatif.md",
     "Chaque chose.md",
+    "Sim/Tout.md",
     "L'ensemble.md",
     "Rien.md",
     "Sim/Pas.md",
@@ -203,7 +206,6 @@
     "Sim/Oui.md",
     "Négatif.md",
     "D'accord.md",
-    "Affirmatif.md",
     "Não/À Venir.md",
     "Sim/À L'avenir.md",
     "Não/Dans Le Futur.md",
@@ -217,8 +219,6 @@
     "Não/Dans Le Passé.md",
     "Não/De Nos Temps.md",
     "Sim/Actuellement.md",
-    "Não/Autrefois.md",
-    "Não/À L'heure Actuelle.md",
     "Sem título.canvas",
     "Data",
     "Não",
